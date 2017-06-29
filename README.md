@@ -8,7 +8,7 @@ And then get "wired" with an endpoint.
 
 The whole thing can be envisioned as an onion where the core gets "peeled up" with layers.
 
-- 1-pure-lib: pure functional abstraction written in PureScript; **the core**
+- 1-pure-lib: pure functional abstraction written in [PureScript](http://www.purescript.org/); **the core**
 - 2-express-app: core wrapped into HTTP service; **the peel**
 
 ## how-to
